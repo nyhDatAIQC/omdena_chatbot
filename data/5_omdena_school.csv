@@ -1,0 +1,84 @@
+Story_1,Intent/Action name,story_2,Intent/Action Name,story_3,Intent/Action Name,story_4,Intent/Action Name,story_5,Intent/Action Name,story_6,Intent/Action Name
+How can I join Omdena School,join_omdena_school,What are the courses that Omdena school Offers,school_courses,How is Omdena courses structured,course_structure,Tell me about omdena community,about_community,How can I sign up as an omdena instructor,school_instructor_signup_details,what is omdena school,about_omdena_school
+"1 .Visit the Omdena School website: Start by visiting the official Omdena School website to learn more about their programs, courses, and application process.
+
+2. Explore available programs: Check out the different programs they offer and determine which one aligns with your interests and goals. Omdena School may have courses in AI, data science, machine learning, computer vision, natural language processing, and other related areas.
+
+2. Review the prerequisites: Each program might have specific prerequisites in terms of knowledge or skills. Make sure you meet the requirements before applying.
+
+3. Register and apply: If you find a suitable program, follow the instructions on the website to register and apply. There may be an application form to fill out.
+
+4.Wait for acceptance: After submitting your application, you'll need to wait for the review process. Omdena School may have limited seats in each cohort, so acceptance may be competitive.
+
+6.Complete the program: If your application is successful, you'll be enrolled in the program. Follow the curriculum, participate in the practical projects, and complete the assignments as required.
+
+7.Engage with the community: Omdena School emphasizes a collaborative learning environment, so engage with fellow students, instructors, and mentors. This will enhance your learning experience and broaden your network.
+
+8.Seek help and support: Don't hesitate to ask questions and seek help if you encounter any challenges during the program. The Omdena School community is there to assist you.
+
+
+
+
+
+
+
+
+",utter_join_omdena_school,"1. AI for Social Good: This course focuses on using AI and data science for social impact. Participants work on projects that address real-world challenges in areas such as healthcare, education, environment, and poverty alleviation.
+
+2. Machine Learning: This course delves into various machine learning techniques and algorithms. Participants gain hands-on experience by applying machine learning models to real datasets.
+
+3.Natural Language Processing (NLP): NLP courses teach participants how to process and analyze human language using AI and machine learning. Applications of NLP include sentiment analysis, language translation, and chatbots.
+
+4.Computer Vision: Computer vision courses concentrate on enabling machines to interpret and understand visual information from images and videos. Projects may involve object detection, image classification, and facial recognition.
+
+5.Deep Learning: Deep learning courses cover advanced neural network architectures and techniques used in modern AI applications. Participants learn how to build and train deep learning models.
+
+6.Data Science: Data science courses focus on the end-to-end process of collecting, cleaning, analyzing, and interpreting data to extract meaningful insights and patterns.
+
+7. AI Ethics: This course explores the ethical implications of AI and data science and how to develop responsible AI applications.
+
+",utter_school_courses,"- The courses can either Instructor based, self paced or both",utter_course_structure,"Omdena is a global community of AI engineers and data scientists who collaborate to build impactful AI solutions for real-world problems. The platform is mission-driven, aiming to provide a platform for the global community of AI engineers to gather and collaboratively build solutions ",utter_about_community,"1.Visit the Omdena website: Go to the Omdena website (https://omdena.com/) to learn more about their projects, mission, and the kind of work they do.
+2. Explore the Omdena projects: Check out the ongoing and completed projects on the platform to see if any align with your expertise and interest.
+3. Express interest: If you find a project that fits your skills and background, you can reach out to Omdena via their contact form or through the email addresses listed on their website. Express your interest in collaborating as a mentor or AI expert for a specific project.
+4. Provide your credentials: When reaching out, make sure to highlight your relevant experience, expertise, and any previous work you've done in the AI and data science field.
+5. Wait for a response: The Omdena team will review your information and get back to you if they have an opportunity that matches your profile and skills.
+",utter_school_instructor_signup_details,"Omdena School is an AI and data science education platform that provides an instructor-led and code-first environment using real-world case studies. The courses at Omdena School are different from those available on other marketplaces, as they are based on real-world practical assignments leading to projects with similar application areas. The courses aim to equip learners with state-of-the-art AI skills. Learners can join courses free of cost",utter_about_omdena_school
+What  are the requirments for enrolling in a machine learning program ?,school_requirements_ml_programme,What are the machine learning programs I can enrol in,school_ml_programme,What topics are taught at omdena school?,school_topics,How to network with other collaborators,networking,what are the skills required to become an Omdena School instructor,school_instructor_skills,what are the prerequisites for joining Omdena School,prerequisits_omdena_school
+"1.Prerequisite Knowledge: A foundational understanding of programming (Python is commonly used in machine learning), mathematics (linear algebra, calculus, probability, and statistics), and basic data manipulation is often expected.
+2.Mathematics Background: Machine learning involves mathematical concepts and algorithms. Familiarity with key mathematical concepts will be beneficial.
+3.Programming Skills: Proficiency in programming languages commonly used in machine learning, such as Python, is essential. You should be comfortable writing and debugging code.
+4.Data Analysis: Familiarity with data analysis and data manipulation techniques is valuable, as machine learning often involves working with datasets.
+5.Statistics: Understanding basic statistical concepts and techniques is important for machine learning model evaluation and analysis.
+6.Linear Algebra: Knowledge of linear algebra is relevant for understanding certain machine learning algorithms.
+7.Machine Learning Concepts: Some programs may expect you to have a basic understanding of fundamental machine learning concepts like supervised and unsupervised learning.
+8.Educational Background: Some machine learning programs might have specific educational prerequisites, such as a certain degree or coursework in a related field.
+9.Computer Hardware/Software: You may need access to a computer with sufficient hardware capabilities and software tools needed for running machine learning models.1.",utter_requirements_ml_programme,"Here are some of the available programmes
+Real-World Project Based AI Learning Course: This course is for Machine Learning and Data Science enthusiasts who want to excel in their knowledge with real-world practical examples of AI. The course shares open source real-world projects developed by the collaboration at Omdena as core challenges with various organizations. The course will help learners use these available resources for a better understanding of basic knowledge of Machine Learning and Data Science with real-world practical example projects
+Essential Data Science Building Blocks (Modular Course): This course is designed with independent modules starting from basic Python, Exploratory Data Analysis, Data Visualization, Machine Learning, Deep Learning, and more
+Neural Networks and Deep Learning Applications: This course will help learners learn about neural networks and advanced applications of artificial neural networks through case studies
+5
+.",utter_school_ml_programme,"The courses offered at Omdena School cover various topics in AI and data science. Some of the topics covered in their courses include:
+Essential data science building blocks
+Survival analysis in Python
+Model deployment strategies
+MLOps for AI engineers and data scientists
+Neural networks and deep learning applications
+Real-world project-based AI learning
+A/B testing
+Time series analysis",utter_school_topics,"To network with other collaborators on Omdena, you can reach out to a Task Leader or Product Owner and offer to pitch in[1]. Omdena's approach is about spurring free ideas and driving true innovation bottom-up, and it is a community-driven organization where people with the right skills and motivation come to collaborate, learn, share, and build solutions together[1]",utter_networking,"To become an Omdena School instructor, you should possess the following skills:
+Expertise in AI and Data Science
+Communication Skills
+Self-Driven and Creative Thinking
+Planning and Management Skills
+Problem-Solving Skills
+Soft Skills, including knowledge management, critical thinking, and effective communication",utter_school_instructor_skills,"To join Omdena School, you must be over the age of 18, with a few exceptions
+. You must have an internet connection to apply and work on the platform
+. Unfortunately, not all applications can be approved, but Omdena is proud to support a thriving community of global talent
+. The prerequisites for joining Omdena School vary depending on the course. For example, the ""Applying Data Science in Cyber Security"" course requires intermediate Python knowledge, basic machine learning and NLP knowledge, but cyber security knowledge is not necessary
+. The ""Neural Networks and Deep Learning Applications"" course requires Python programming, an understanding of machine learning, and basic deep learning concepts
+. However, the ""A Taste of Language Processing"" course does not have any prerequisites listed
+. Omdena Youth Changemakers have the opportunity to join weekend classes and coding days to learn the basics of AI",utter_prerequisits_omdena_school
+Does Omdena school have a Foundational Python course?,school_python_course,,,what are the different levels of courses offered at OmdenaSchool,school_course_level,What do i get by collaborating in a project?,collaborator_benefit,,,,
+"Yes, Omdena School offers a Foundational Python course as part of its Essential Data Science Building Blocks (Modular Course) 1. The course is designed with independent modules starting from basic Python, Exploratory Data Analysis, Data Visualization, Machine Learning, Deep Learning, and more. The course is hands-on and instructor-led with real-world projects and case studies2.In addition to the Essential Data Science Building Blocks course, Omdena School offers other courses related to data science and AI, such as Data Visualization in Python Using Matplotlib and Mastering Data Exploration and Preprocessing with Python and SQL46.Omdena School's courses are based on real-world practical assignments leading to projects with similar application areas. The courses are developed on end-to-end solutions from collecting datasets to the deployment of working models. Completion certificates are issued to successful participants",utter_school_python_course,,,"Omdena School offers courses at different levels of expertise. The courses are designed to cater to learners with varying levels of experience in AI and data science. Some of the courses offered at Omdena School are beginner-level courses, while others are intermediate or advanced-level courses
+.For example, the Essential Data Science Building Blocks course is a beginner-level course that familiarizes learners with all essential skill sets required to be a good data scientist
+. On the other hand, the MLOps for AI Engineers and Data Scientists course is an advanced-level course that teaches AI/Data Scientist/ML Engineers to understand MLOps and how to deploy models across different resources and different environments",utter_school_course_level,"Collaborating in an Omdena project provides several benefits. Firstly, it allows you to work with people from different backgrounds and countries, and learn from each other while building solutions to solve social and environmental issues",utter_collaborator_benefit,,,,

@@ -1,0 +1,53 @@
+Story_1,Intent/Action name,story_2,Intent/Action Name,story_3,Intent/Action Name,story_4,Intent/Action Name,story_5,Intent/Action Name
+1.can you tell me about careers in omdena,careers_in_omdena,What are the open positions currently available at Omdena?,omdena_open_positions,How can i become a community manager?,become_community_manager,How can i become a AI Engineer?,become_ai_engineer,How can i become a AI Researcher?,become_ai_researcher
+"Omdena offers several career paths for individuals interested in AI and machine learning. These career paths include:
+AI Product Development: This path involves developing AI products and solutions for businesses and organizations
+Community Development: This path involves building and growing the Omdena community, as well as supporting and mentoring other members
+AI Engineering: This path involves designing and implementing AI systems and infrastructure
+AI Research: This path involves conducting research in AI and machine learning, as well as developing new algorithms and models",utter_careers_in_omdena,The open positions currently available at Omdena can be found on the careers page.,utter_omdena_open_positions,"1.Either join a Local Chapter Challenge or an AI Innovation Challenge to experience first-hand how Omdena projects work.
+2.By opening a new Local Chapter in your country, you will have the opportunity to build a community, supported by Omdena.
+3.In the Omdena Impact Program, you will be collaborating with leading partner organizations so you can make things happen for real!
+4.Once a month, Omdena highlights the lead of the month. If you commit to your Local Chapter, you will get special recognition for your impact.",utter_become_community_manager,"1.By joining an AI Innovation Challenge you will work with a team of 50 collaborators to develop AI solutions for real-world problems.
+2.During the Innovation Challenge, lead a key task and drive progress with the team to showcase your willingness to take the lead.
+3.Complete at least two AI Innovation Challenges and have the opportunity to work on paid projects as an Omdena Top Talent.
+4.Now, you have built the skills and project portfolio to stand out in the data science job market.",utter_become_ai_engineer,"1.Join a Local Chapter Challenge to develop AI solutions for real-world problems. All code is made open source in Local Chapter Challenges.
+2.Write a research article on the work done in the Local Chapter Challenge and get it presented or published at an international conference.
+3.Share your knowledge through launching your own course via Omdena School and teaching a class of 50-100 students.
+4.Join Omdena Journal of Applied AI as an editor. Edit the journal content and review others’ submitted articles.",utter_become_ai_researcher
+what are the requirements to join Omdena's AI Product Development career path,requirements_ai_product_carreer,"How can individuals apply for open positions at Omdena, and what is the process for joining the team?",applying_at_omdena,What are the skills required for becoming community manager?,community_manager_skills,What are the skills required for becoming AI Engineer?,ai_engineer_skills,What are the skills required for becoming AI Researcher?,ai_researcher_skills
+"The key skills required to become an AI product owner include leadership skills, data science problem-solving skills, product development skills, and cultural awareness. These skills are developed through participating in Omdena AI Innovation Challenges and managing them as a product manager.",utter_requirements_ai_product_carreer,Individuals can apply for open positions at Omdena by visiting the organization's website and submitting their resume and cover letter. The process for joining the team involves a series of interviews and assessments to ensure that candidates are a good fit for the organization's culture and values.,utter_applying_at_omdena,"These are the key skills required:
+1.Project identification and execution
+2.Community management
+3.Leadership skills
+4.Data science know-how
+",utter_community_manager_skills,"1.Data science
+2.Team collaboration
+3.Being able to communicate and bridge a team of up to 50 collaborators from diverse backgrounds.
+4.Being able to learn and adapt in a dynamic environment.",utter_ai_engineer_skills,"1.Research capabilities
+2.Being able to fulfill requirements and ethical compliance to conduct the research.
+3.Building the qualities and approaches for being an effective researcher
+4.Developing the skills to work with a diverse team and ensure the wider impact of the research.",utter_ai_researcher_skills
+What is the process for becoming an AI product owner?,process_ai_product_carreer,can you tell me about the Product Manager role ?,product_manager_role,can you tell me the role of community manager?,community_manager_role,can you tell me the role of AI Engineer?,ai_engineer_role,can you tell me the role of AI Researcher?,ai_researcher_role
+"The process for becoming an AI product owner involves joining an Omdena AI Innovation Challenge, taking a leadership role during the challenge, managing another AI Innovation Challenge as a product manager, and gaining the skills to build AI products. Along the way, you will develop diverse team management skills, communication skills, and AI product development experience.",utter_process_ai_product_carreer, The Product Manager role at Omdena involves overseeing the development of AI projects from ideation to execution,utter_product_manager_role,"The role of a Community Manager at Omdena involves helping to grow the community in new locations and countries
+
+2.They work closely with Omdena Local chapters and the Omdena school team2
+3.The Community Manager plays a crucial role in fostering engagement and collaboration within the data science community
+
+4.They contribute to the growth of Omdena's platform for real-world AI projects across 100 countries
+
+5.The Community Manager is responsible for creating a supportive and inclusive environment for members to connect, learn, and make an impact
+
+6.They are passionate about making a real impact in their local region or country
+Overall, the Community Manager at Omdena plays a vital role in building and nurturing the data science community and supporting the organization's mission.",utter_community_manager_role,"The role of an AI Engineer at Omdena involves working on real-world AI projects with teams of up to 50 AI engineers and data scientists who collaboratively develop solutions. They are responsible for developing AI models, deploying models, and working with data and infrastructure. AI Engineers at Omdena are passionate about building AI for social good and making an impact. They have advanced computing skills and experience in machine learning and data science. AI Engineers at Omdena work collaboratively with other team members, including project managers and AI product owners. Overall, the role of an AI Engineer at Omdena is to use their skills and expertise to develop AI solutions that address real-world challenges and make a positive impact on society.",utter_ai_engineer_role,"The role of an AI Researcher at Omdena involves implementing machine learning algorithms and collaborating with peers to organize research ideas into action. AI Researchers work on real-world AI projects with teams of up to 50 AI engineers and data scientists who collaboratively develop real-world solutions. They are responsible for developing cutting-edge AI models and may work on closed-source or open-source projects, depending on project requirements. AI Researchers at Omdena have product ownership skills and are passionate about building AI for social good and making an impact. They work collaboratively with other team members, including project managers and AI product owners. Overall, the role of an AI Researcher at Omdena is to use their skills and expertise to develop AI solutions that address real-world challenges and make a positive impact on society.",utter_ai_researcher_role
+How can I take a leadership role during an Omdena AI Innovation Challenge?,leadership_in_omdena_challenge,Describe the role and responsibilities of the Marketing Growth Manager position at Omdena.,marketing_growth_manager_position,What are the requiremens for this role?,requirements_community_manager_role,What are the requiremens for this role?,requirements_ai_engineer,What are the requiremens for this role?,requirements_ai_researcher
+" To take a leadership role during an Omdena AI Innovation Challenge, you should be proactive and willing to take the lead on a key task. You should also be able to communicate effectively with your team and drive progress towards the goal of developing an AI solution for the real-world problem at hand.",utter_leadership_in_omdena_challenge,"The role of the Marketing Growth Manager at Omdena involves developing and executing content strategies to promote AI or technology solutions. The responsibilities may include creating engaging content, managing social media channels, optimizing marketing campaigns, and analyzing data to drive growth.",utter_marketing_growth_manager_position,"1..Basic knowledge of programming
+2.Curiosity and willingness to learn
+3.Project management interest",utter_requirements_community_manager_role,"1.A very good grasp in computer science and/or mathematics
+2.Programming experience with Python
+3.A basic understanding of Machine Learning (e.g. through online courses)",utter_requirements_ai_engineer,"1.Academic experience
+2.Competency in scientific writing
+3.Familiarity with research design paradigms",utter_requirements_ai_researcher
+,,"What is the nature of the Content Marketer  role, and is it a full-time position?",content_marketer_position,,,,,,
+,,"A content marketer is responsible for researching, planning, creating, and distributing content for businesses of all sizes with the goal of attracting leads and turning them into customers through educational, valuable content. They are both storytellers and data analysts, and their ultimate goal is to work as part of the company's overall digital marketing strategy by identifying and engaging with the target audience in a way that is meaningful to them. 
+
+At Omdena, a content marketer is a full-time position. As a content marketer at Omdena, one would have the opportunity to shape the narrative, analyze content distribution performance, and play a crucial role in promoting AI products and engaging the target audience.",utter_content_marketer_position,,,,,,
